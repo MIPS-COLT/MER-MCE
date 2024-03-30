@@ -1,0 +1,9 @@
+datasets:
+  first_face_caption:
+    data_type: images
+    
+    build_info:
+      image_path: /home/czb/selected_face/first_face/images
+      ann_path: /home/czb/selected_face/first_face/selected_face.json
+
+

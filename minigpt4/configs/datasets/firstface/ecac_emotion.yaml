@@ -1,0 +1,10 @@
+datasets:
+  ECAC_emotion_caption:
+    data_type: images
+    
+    build_info:
+      image_path: /home/czb/selected_face/ECAC/videos
+      # ann_path: /home/czb/selected_face/ECAC/train_window12.json  # ECAC emotion
+      ann_path: /home/czb/selected_face/ECAC/cause_all_window12.json  # ECAC cause
+
+
