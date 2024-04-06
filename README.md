@@ -40,3 +40,15 @@ python submit_emotion-cause_pair.py
 ```
 Save the final submission result of Subtask 2 as "results/submit_all_cause_ck6_wd5_now-n_w-e.json" (w-avg.F1=0.3435)
 
+
+
+If you're using MER-MCE in your research or applications, please cite using this BibTeX:
+```bibtex
+@misc{cheng2024mips,
+      title={MIPS at SemEval-2024 Task 3: Multimodal Emotion-Cause Pair Extraction in Conversations with Multimodal Language Models}, 
+      author={Zebang Cheng and Fuqiang Niu and Yuxiang Lin and Zhi-Qi Cheng and Bowen Zhang and Xiaojiang Peng},
+      year={2024},
+      eprint={2404.00511},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
