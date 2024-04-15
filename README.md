@@ -26,8 +26,8 @@ https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
 ### Prepare the pretrained model checkpoints
 Download the pre-trained emotion cause analysis model on the ECAC dataset and place it in the folder named "MER-MCE/checkpoints/save_checkpoint".
 ```
-https://pan.baidu.com/s/1-RlfBu5qeyKy-7ZnTh3FOA
-Extraction Code: 07gd
+https://pan.baidu.com/s/1qB00ZKyK0wIkECaisqElxw 
+Extraction Code: 2pmk 
 ```
 
 ## Run
