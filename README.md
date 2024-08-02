@@ -48,11 +48,27 @@ Save the final submission result of Subtask 2 as "results/submit_all_cause_ck6_w
 
 If you're using MER-MCE in your research or applications, please cite using this BibTeX:
 ```bibtex
-@misc{cheng2024mips,
-      title={MIPS at SemEval-2024 Task 3: Multimodal Emotion-Cause Pair Extraction in Conversations with Multimodal Language Models}, 
-      author={Zebang Cheng and Fuqiang Niu and Yuxiang Lin and Zhi-Qi Cheng and Bowen Zhang and Xiaojiang Peng},
-      year={2024},
-      eprint={2404.00511},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{cheng-etal-2024-mips,
+    title = "{MIPS} at {S}em{E}val-2024 Task 3: Multimodal Emotion-Cause Pair Extraction in Conversations with Multimodal Language Models",
+    author = "Cheng, Zebang  and
+      Niu, Fuqiang  and
+      Lin, Yuxiang  and
+      Cheng, Zhi-qi  and
+      Peng, Xiaojiang  and
+      Zhang, Bowen",
+    editor = {Ojha, Atul Kr.  and
+      Do{\u{g}}ru{\"o}z, A. Seza  and
+      Tayyar Madabushi, Harish  and
+      Da San Martino, Giovanni  and
+      Rosenthal, Sara  and
+      Ros{\'a}, Aiala},
+    booktitle = "Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.semeval-1.97",
+    doi = "10.18653/v1/2024.semeval-1.97",
+    pages = "667--674",
+    abstract = "This paper presents our winning submission to Subtask 2 of SemEval 2024 Task 3 on multimodal emotion cause analysis in conversations. We propose a novel Multimodal Emotion Recognition and Multimodal Emotion Cause Extraction (MER-MCE) framework that integrates text, audio, and visual modalities using specialized emotion encoders. Our approach sets itself apart from top-performing teams by leveraging modality-specific features for enhanced emotion understanding and causality inference. Experimental evaluation demonstrates the advantages of our multimodal approach, with our submission achieving a competitive weighted F1 score of 0.3435, ranking third with a margin of only 0.0339 behind the 1st team and 0.0025 behind the 2nd team.",
 }
